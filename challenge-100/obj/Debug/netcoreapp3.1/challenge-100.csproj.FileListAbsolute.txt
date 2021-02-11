@@ -1,0 +1,17 @@
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.exe
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.AssemblyInfo.cs
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.deps.json
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.runtimeconfig.json
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.dll
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\challenge-100.pdb
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.csproj.CopyComplete
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.dll
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.pdb
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.genruntimeconfig.cache
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Philip\source\repos\challenge-100\challenge-100\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Philip\source\repos\challenge-100\challenge-100\obj\Debug\netcoreapp3.1\challenge-100.csproj.CoreCompileInputs.cache
